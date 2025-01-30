@@ -42,6 +42,7 @@ This project utilizes the following resources:
 * Documentation: This README file serves as the primary documentation for the project. It describes the task, the resources used, and the approach taken. The SQL code itself should be well-commented to explain the logic behind each query. Additional documentation, such as a description of the dataset schema and the specific business questions being addressed, may also be included.
 
 **OUTPUT**:
+
 [Highest salary each month.pdf](https://github.com/user-attachments/files/18608390/Highest.salary.each.month.pdf)
 
 [monthly sales data and rank months.pdf](https://github.com/user-attachments/files/18608389/monthly.sales.data.and.rank.months.pdf)
