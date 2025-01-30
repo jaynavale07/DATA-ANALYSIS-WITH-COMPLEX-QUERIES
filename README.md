@@ -43,4 +43,5 @@ This project utilizes the following resources:
 
 **OUTPUT**:
 [Highest salary each month.pdf](https://github.com/user-attachments/files/18608390/Highest.salary.each.month.pdf)
+
 [monthly sales data and rank months.pdf](https://github.com/user-attachments/files/18608389/monthly.sales.data.and.rank.months.pdf)
