@@ -3,7 +3,7 @@ This repository contains complex SQL queries for data analysis using MySQL and P
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: Jay Navale
+**NAME**: Jay Shankar Navale
 
 **INTERN ID**: CT08JMM
 
