@@ -1,0 +1,7 @@
+employee_id,name,salary,department_name
+3,Charlie,75000.00,HR
+5,Eve,70000.00,IT
+6,Frank,62000.00,Finance
+8,Hank,72000.00,IT
+9,Ivy,68000.00,Finance
+10,Jack,77000.00,HR

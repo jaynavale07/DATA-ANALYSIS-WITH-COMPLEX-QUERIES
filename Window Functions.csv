@@ -1,0 +1,11 @@
+employee_id,name,department_id,department_name,salary,salary_rank,total_department_salary
+10,Jack,1,HR,77000.00,1,270000.00
+3,Charlie,1,HR,75000.00,2,270000.00
+1,Alice,1,HR,60000.00,3,270000.00
+7,Grace,1,HR,58000.00,4,270000.00
+8,Hank,2,IT,72000.00,1,197000.00
+5,Eve,2,IT,70000.00,2,197000.00
+2,Bob,2,IT,55000.00,3,197000.00
+9,Ivy,3,Finance,68000.00,1,180000.00
+6,Frank,3,Finance,62000.00,2,180000.00
+4,David,3,Finance,50000.00,3,180000.00
